@@ -21,5 +21,5 @@ Python bindings for libxkbcommon using cffi.
 
 %files
 %license LICENSE
-%{python_sitelib}/xkbcommon-%{version}.dist-info
-%{python_sitelib}/xkbcommon/
+%{python_sitearch}/xkbcommon-%{version}.dist-info
+%{python_sitearch}/xkbcommon/

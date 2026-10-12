@@ -2,9 +2,10 @@
 %define module xkbcommon
 Name:           python-xkbcommon
 Version:        1.5.1
-Release:        2
+Release:        3
 Summary:        Python bindings for libxkbcommon using cffi
 License:        MIT
+Group:        Development/Python
 URL:            https://github.com/sde1000/python-xkbcommon
 Source0:        https://files.pythonhosted.org/packages/source/p/%{module}/%{module}-%{version}.tar.gz
 
